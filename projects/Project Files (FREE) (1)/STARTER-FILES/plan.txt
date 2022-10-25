@@ -1,0 +1,7 @@
+1- make the user able to add to cart
+2- when the item is added change to in cart
+3- make the option to take an item many times
+4- change the total, tax, subtotal options
+5- make the option to remove the item
+6- if the cart is empty say a msg that the user's cart is empty
+
